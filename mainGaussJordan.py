@@ -3,9 +3,9 @@
 #   resolver sistemas de ecuaciones
 #
 #           Autor:
-#   Gilbert Alexander Mendez Cervera
-#   mendezgilbert222304@outlook.com
-#   Version 1.01 : 25/02/2025
+#   Argel Jesus Pech Manrique
+#   argelpech098@gmail.com
+#   Version 1.01 : 05/03/2025
 #
 import numpy as np #Import de la libreria numpy
 
